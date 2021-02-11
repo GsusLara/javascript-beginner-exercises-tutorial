@@ -1,7 +1,7 @@
 
 //Set the values here
-var myVar1 = '';
-var myVar2 = '';
+var myVar1 = 'hello';
+var myVar2 = 'world';
 
 
 
